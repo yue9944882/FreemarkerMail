@@ -1,3 +1,0 @@
-Date: ${username}
-
-${first.second}

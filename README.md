@@ -1,2 +1,0 @@
-# FreemarkerMail
-SpringMVC+FreeMarker+BlahBlah..
