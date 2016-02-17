@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/FreemarkerMail.iml" filepath="$PROJECT_DIR$/FreemarkerMail.iml" />
       <module fileurl="file://$PROJECT_DIR$/MailClient/MailClient.iml" filepath="$PROJECT_DIR$/MailClient/MailClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringDemo/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" />
     </modules>
   </component>

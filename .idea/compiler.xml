@@ -19,11 +19,12 @@
       </profile>
       <profile default="false" name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="MailClient" />
         <module name="SpringBoot" />
+        <module name="SpringDemo" />
         <module name="SpringMVC" />
       </profile>
     </annotationProcessing>
@@ -31,6 +32,7 @@
       <module name="FreemarkerMail" target="1.5" />
       <module name="MailClient" target="1.5" />
       <module name="SpringBoot" target="1.5" />
+      <module name="SpringDemo" target="1.5" />
       <module name="SpringMVC" target="1.5" />
     </bytecodeTargetLevel>
   </component>

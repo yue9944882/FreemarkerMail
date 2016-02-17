@@ -12,6 +12,7 @@
         <module>SpringMVC</module>
         <module>MailClient</module>
         <module>SpringBoot</module>
+        <module>SpringDemo</module>
     </modules>
 
     <dependencies>
