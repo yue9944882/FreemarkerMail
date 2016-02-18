@@ -10,7 +10,18 @@ import java.util.List;
 
 public abstract class Mail {
 
-    String szTitle = "Tile Didn't Set Yet";
+    private String szTitle = "Tile Didn't Set Yet";
+
+    public String getSzTitle() {
+        return szTitle;
+    }
+
+    public void setSzTitle(String szTitle) {
+        this.szTitle = szTitle;
+    }
+
+
+
 
 
 

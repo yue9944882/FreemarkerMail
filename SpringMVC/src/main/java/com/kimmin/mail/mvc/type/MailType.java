@@ -6,6 +6,7 @@ package com.kimmin.mail.mvc.type;
 
 
 /** Enumeration For Types of Mails **/
+
 public enum MailType {
 
     OTHER(0),
