@@ -6,5 +6,10 @@ package com.kimmin.mail.mvc.service;
 
 
 public interface SendMailService {
+
     boolean sendMail(String addr);
+    void setDepartureMail(String addr, String passwd);
+    void setSMTPSite(String host);
+
+
 }

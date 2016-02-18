@@ -66,6 +66,12 @@
             <version>1.5.5</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.freemarker</groupId>
+            <artifactId>freemarker</artifactId>
+            <version>2.3.23</version>
+        </dependency>
+
         <!--&lt;!&ndash;http://freemarker.incubator.apache.org/docs/index.html&ndash;&gt;-->
         <!--<dependency>-->
             <!--<groupId>org.freemarker</groupId>-->

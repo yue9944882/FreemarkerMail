@@ -2,26 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d2135f4-edd1-47ae-8f65-fef0c4320037" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/ApplicationEntry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/controller/MainController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/MailType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/webapp/public/RequestPage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/webapp/public/ResponsePage.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/webapp/public/html/greeting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo3/ApplicationConfigurerAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/public/greeting.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/static/greeting.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/Application$1.class" afterPath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/Application$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/Application.class" afterPath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/Application.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo3/GreetingController.class" afterPath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo3/GreetingController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/Mail.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SpringMVC/src/main/resources/templates/test_mail.ftl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/service/SendMailService.class" afterPath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/service/SendMailService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/service/SendMailServiceImpl.class" afterPath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/service/SendMailServiceImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/ApplicationConfigurerAdapter.java" afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/ApplicationConfigurerAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/GreetingController.java" afterPath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/GreetingController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FreemarkerMail.iml" afterPath="$PROJECT_DIR$/FreemarkerMail.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MailClient/MailClient.iml" afterPath="$PROJECT_DIR$/MailClient/MailClient.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringBoot/SpringBoot.iml" afterPath="$PROJECT_DIR$/SpringBoot/SpringBoot.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" afterPath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" afterPath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/resources/static/greeting.html" afterPath="$PROJECT_DIR$/SpringDemo/target/classes/public/greeting.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/public/html/greeting.html" afterPath="$PROJECT_DIR$/SpringDemo/src/main/webapp/public/greeting.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMVC/pom.xml" afterPath="$PROJECT_DIR$/SpringMVC/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailService.java" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java" afterPath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="FreemarkerMail.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,48 +44,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MessageService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo1/MessageService.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="-18.275862">
+              <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo1/Application.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringMVC/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="-11.724138">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MessagePrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo1/MessagePrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GreetingController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/GreetingController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#703#704#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -113,9 +82,26 @@
         <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SendMailServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34065935">
+              <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1671#2693#0" expanded="true" />
+                <element signature="e#2278#2294#0" expanded="true" />
+                <element signature="e#2692#2693#0" expanded="true" />
+                <element signature="e#3047#3048#0" expanded="true" />
+                <element signature="e#3082#3083#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,17 +111,27 @@
         <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SendMailServiceImpl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java">
+      <file leaf-file-name="test_mail.ftl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/resources/templates/test_mail.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6677796">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/Mail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -167,11 +163,11 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Interface" />
         <option value="Singleton" />
         <option value="HTML File" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -197,7 +193,6 @@
         <option value="$PROJECT_DIR$/SpringDemo/pom.xml" />
         <option value="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo2/Greeting.java" />
         <option value="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo2/GreetingController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo2/Application.java" />
         <option value="$PROJECT_DIR$/SpringDemo/src/main/resources/templates/greeting.html" />
         <option value="$PROJECT_DIR$/SpringDemo/src/main/resources/templates/greeting.ftl" />
@@ -212,9 +207,13 @@
         <option value="$PROJECT_DIR$/SpringMVC/src/main/webapp/public/ResponsePage.html" />
         <option value="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo1/Application.java" />
         <option value="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/MailType.java" />
-        <option value="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/controller/MainController.java" />
-        <option value="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java" />
         <option value="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailService.java" />
+        <option value="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/Mail.java" />
+        <option value="$PROJECT_DIR$/SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/SpringMVC/src/main/resources/templates/test_mail.ftl" />
+        <option value="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -368,10 +367,6 @@
               <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -392,6 +387,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -422,6 +425,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FreemarkerMail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FreemarkerMail" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpringMVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mvc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="type" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -984,12 +1021,12 @@
       <workItem from="1455762802757" duration="1022000" />
       <workItem from="1455763835782" duration="613000" />
       <workItem from="1455764457830" duration="3886000" />
-      <workItem from="1455769918861" duration="7886000" />
+      <workItem from="1455769918861" duration="12641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22495000" />
+    <option name="totallyTimeSpent" value="27250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1012,7 +1049,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35307518" sideWeight="0.5074074" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28473803" sideWeight="0.4925926" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34510252" sideWeight="0.4925926" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2118451" sideWeight="0.49753088" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1055,30 +1092,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="72" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC/web/WEB-INF/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1120,14 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1180,14 +1185,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35433072">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="32" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1415,7 +1412,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1448,6 +1445,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/mavenrepo/org/springframework/spring-context-support/4.1.7.RELEASE/spring-context-support-4.1.7.RELEASE.jar!/org/springframework/mail/javamail/MimeMessageHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33274958">
+          <caret line="363" column="28" selection-start-line="363" selection-start-column="28" selection-end-line="363" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.724138">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.275862">
+          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/Mail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/MailType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1456,29 +1495,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/resources/templates/test_mail.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6677796">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.34065935">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1671#2693#0" expanded="true" />
+            <element signature="e#2278#2294#0" expanded="true" />
+            <element signature="e#2692#2693#0" expanded="true" />
+            <element signature="e#3047#3048#0" expanded="true" />
+            <element signature="e#3082#3083#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
