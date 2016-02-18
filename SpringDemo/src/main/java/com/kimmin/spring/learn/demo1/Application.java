@@ -14,6 +14,9 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ComponentScan
 
+
+/** Example of Dependency Injection **/
+
 public class Application {
 
     @Bean
