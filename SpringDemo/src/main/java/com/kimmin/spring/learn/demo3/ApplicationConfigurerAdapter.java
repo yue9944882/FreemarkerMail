@@ -12,21 +12,21 @@ import org.springframework.web.servlet.view.UrlBasedViewResolver;
  * Created by min.jin on 2016/2/18.
  */
 
-@Configuration
-@EnableWebMvc
-public class ApplicationConfigurerAdapter extends WebMvcConfigurerAdapter{
-
-    @Override
-    public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer){
-        configurer.enable();
-    }
-
-    @Bean
-    public UrlBasedViewResolver viewResolver(){
-        InternalResourceViewResolver resolver = new InternalResourceViewResolver();
-        resolver.setPrefix("/");
-        resolver.setSuffix(".jsp");
-        return resolver;
-    }
-
-}
+//@Configuration
+//@EnableWebMvc
+//public class ApplicationConfigurerAdapter extends WebMvcConfigurerAdapter{
+//
+//    @Override
+//    public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer){
+//        configurer.enable();
+//    }
+//
+//    @Bean
+//    public UrlBasedViewResolver viewResolver(){
+//        InternalResourceViewResolver resolver = new InternalResourceViewResolver();
+//        resolver.setPrefix("/");
+//        resolver.setSuffix(".html");
+//        return resolver;
+//    }
+//
+//}

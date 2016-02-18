@@ -19,7 +19,7 @@ public class GreetingController {
 
     @RequestMapping(value = "/hello", method = RequestMethod.GET)
     public ModelAndView greeting(){
-        return new ModelAndView("greeting").addObject("name","Kimmin");
+        return new ModelAndView("greeting.html").addObject("name","Kimmin");
     }
 
 
