@@ -2,175 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d2135f4-edd1-47ae-8f65-fef0c4320037" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17_atlassian_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MailClient/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MailClient/src/main/java/com/kimmin/mail/client/IMailSend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MailClient/src/main/java/com/kimmin/mail/client/MailSendCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MailClient/src/main/java/com/kimmin/mail/client/MailSendException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MailClient/src/main/java/com/kimmin/mail/client/MailSendWorkerService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MailClient/src/test/java/MailClientTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dianping_cat_cat_client_1_3_8_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_base_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_jaxrs_jackson_jaxrs_json_provider_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_0_7_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_50.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_0_24_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xbean_xbean_reflect_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_47.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_47.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_5_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_3_5_3_201412180710_r.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_class_model_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_config_types_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_core_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_asm_all_repackaged_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_bean_validator_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_config_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_locator_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_runlevel_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_hk2_utils_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_hk2_spring_bridge_2_4_0_b06.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_containers_jersey_container_servlet_core_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_client_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_server_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_bean_validation_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_ext_jersey_spring3_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jersey_media_jersey_media_json_jackson_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jvnet_tiger_types_1_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jersey_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_1_0_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_1_0_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_1_0_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_1_0_2_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_1_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_1_0_3_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_3_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_1_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_unidal_framework_foundation_service_2_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringBoot/SpringBoot.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringBoot/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringBoot/target/classes/SimpleController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/DemoInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo1/Application.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo1/MessagePrinter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo1/MessageService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo2/Application.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo2/Greeting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo2/GreetingController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/Application.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/ApplicationConfigurerAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/java/com/kimmin/spring/learn/demo3/GreetingController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/resources/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/resources/templates/greeting.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/src/main/webapp/public/greeting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/DemoInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/Application$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/MessagePrinter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo1/MessageService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo2/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo2/Greeting.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo2/GreetingController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo3/Application.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/com/kimmin/spring/learn/demo3/GreetingController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/public/greeting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringDemo/target/classes/templates/greeting.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/ApplicationEntry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/controller/MainController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/service/SendMailServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/Mail.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/java/com/kimmin/mail/mvc/type/MailType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/resources/templates/test_mail.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/public/RequestPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/src/main/webapp/public/ResponsePage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/ApplicationEntry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/controller/MainController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/service/SendMailService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/service/SendMailServiceImpl$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/service/SendMailServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/type/Mail.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/com/kimmin/mail/mvc/type/MailType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/public/RequestPage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/public/ResponsePage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/target/classes/templates/test_mail.ftl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/web/WEB-INF/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/web/WEB-INF/dispatcher-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SpringMVC/web/index.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FreemarkerMail.iml" afterPath="$PROJECT_DIR$/FreemarkerMail.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MailClient/MailClient.iml" afterPath="$PROJECT_DIR$/MailClient/MailClient.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml" />
     </list>
     <ignored path="FreemarkerMail.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -218,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MailSendCommand.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MailSendCommand.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MailClient/src/main/java/com/kimmin/mail/client/MailSendCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09246575">
+            <state vertical-scroll-proportion="0.0">
               <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -232,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MailClientTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MailClientTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MailClient/src/test/java/MailClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.37671232">
               <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -1084,14 +916,11 @@
       <workItem from="1455769918861" duration="18997000" />
       <workItem from="1455860391921" duration="4594000" />
       <workItem from="1456111723153" duration="7875000" />
-      <workItem from="1456473696366" duration="8475000" />
+      <workItem from="1456473696366" duration="8752000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MailClientTest_doTest - 2016.02.26 at 18h 14m 25s.xml">
-      <configuration name="MailClientTest.doTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MailClientTest_doTest - 2016.02.26 at 18h 14m 37s.xml">
       <configuration name="MailClientTest.doTest" configurationId="JUnit" />
     </history-entry>
@@ -1119,9 +948,12 @@
     <history-entry file="MailClientTest_doTest - 2016.02.26 at 18h 22m 59s.xml">
       <configuration name="MailClientTest.doTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MailClientTest_doTest - 2016.02.26 at 18h 25m 31s.xml">
+      <configuration name="MailClientTest.doTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54550000" />
+    <option name="totallyTimeSpent" value="54827000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1134,7 +966,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="0" width="1678" height="1010" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1375,25 +1207,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MailClient/src/test/java/MailClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#577#593#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MailClient/src/main/java/com/kimmin/mail/client/MailSendCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09246575">
+        <state vertical-scroll-proportion="0.0">
           <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2532#3096#0" expanded="true" />
             <element signature="e#3095#3096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MailClient/src/test/java/MailClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37671232">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#577#593#0" expanded="true" />
           </folding>
         </state>
       </provider>
