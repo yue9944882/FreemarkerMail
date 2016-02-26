@@ -9,6 +9,13 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/SpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />

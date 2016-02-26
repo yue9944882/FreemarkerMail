@@ -23,9 +23,6 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="MailClient" />
-        <module name="SpringBoot" />
-        <module name="SpringDemo" />
-        <module name="SpringMVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
