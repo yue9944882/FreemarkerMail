@@ -1,4 +1,5 @@
 #FreeMarker Mail#
+<a href="https://travis-ci.org/yue9944882/FreemarkerMail.svg?branch=master" target="_blank"><img src="https://travis-ci.org/yue9944882/FreemarkerMail.svg?branch=master"/></a>
 
 ----------
 
