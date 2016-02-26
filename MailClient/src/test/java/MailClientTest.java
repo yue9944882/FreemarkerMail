@@ -16,13 +16,13 @@ import java.util.Map;
  */
 public class MailClientTest {
 
-    @Test
-    public void doTest(){
+    //@Test
+    public void connectionTest(){
 
         Map<String,Object> dom = new HashMap<String, Object>();
         dom.put("name","kimmin");
-        MailSendCommand command = new MailSendCommand(new File("d:\\template"), "tmp.ftl", dom, "ctripmailbot@126.com","min.jin@ctrip.com");
-        command.setConfiguration("smtp.126.com","ctripmailbot@126.com","ctrip123456");
+        MailSendCommand command = new MailSendCommand(new File("d:\\template"), "tmp.ftl", dom, "****@126.com","***@ctrip.com");
+        command.setConfiguration("smtp.xxx.com","username","password");
         ListenableFuture future = MailSendWorkerService.getInstance().provideCommand(command);
         //MailSendWorkerService.getInstance().triggerShutdown();
         try{
