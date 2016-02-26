@@ -18,9 +18,8 @@
 3. Asynchronous Function Call
 4. Support Multi-mail Sending & Listening hooke
 5. Support Freemarker Template Generation
-    
-<br>
-    Usage:
+<br><br>
+######Usage Demo:
         public void connectionTest(){
             Map<String,Object> dom = new HashMap<String, Object>();
             dom.put("name","kimmin");
