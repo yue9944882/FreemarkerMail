@@ -8,6 +8,8 @@
         javax.mail 1.5.5+
         freemarker 2.3.23+
         junit 4.12+
+
+
 -------------------
 
 ###FreeMarker Mail Pure Client###
@@ -18,8 +20,8 @@
 3. Asynchronous Function Call
 4. Support Multi-mail Sending & Listening hooke
 5. Support Freemarker Template Generation
-<br><br>
 ######Usage Demo:
+
         public void connectionTest(){
             Map<String,Object> dom = new HashMap<String, Object>();
             dom.put("name","kimmin");
