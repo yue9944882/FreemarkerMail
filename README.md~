@@ -14,13 +14,13 @@
 
 ###FreeMarker Mail Pure Client###
 
-####### Mail Sending Service #####
+##### Mail Sending Service #####
 1. Singleton-pattern service & Command-pattern mail sending task
 2. Support concurrent invocation
 3. Asynchronous Function Call
 4. Support Multi-mail Sending & Listening hooke
 5. Support Freemarker Template Generation
-####### Usage Demo:
+######Usage Demo:
 
         public void connectionTest(){
             Map<String,Object> dom = new HashMap<String, Object>();
